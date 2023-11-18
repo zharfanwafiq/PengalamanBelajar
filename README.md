@@ -1,5 +1,6 @@
 # Pengalaman Belajar di Dicoding
 
+
 ## **25 Juni 2021**
 <br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
@@ -8,8 +9,12 @@
 <br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 85%)
 * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
 
+## **22 Juni 2021**
+<br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 85%)
+* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
+
 ## **20 Juni 2021**
-<br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 70%)
+<br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 76%)
 * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
 * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
 
