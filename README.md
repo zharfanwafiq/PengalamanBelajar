@@ -1,8 +1,13 @@
 # Pengalaman Belajar di Dicoding
 
-## **26 Juni 2021**
+
+## **25 Juni 2021**
 <br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+  
+## **22 Juni 2021**
+<br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 85%)
+* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
 
 ## **22 Juni 2021**
 <br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 85%)
