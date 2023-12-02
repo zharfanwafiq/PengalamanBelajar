@@ -1,6 +1,10 @@
 # Pengalaman Belajar di Dicoding
 
 
+## **27 Juni 2021**
+<br>Belajar kelas Memulai Pemrograman dengan Java.
+* Mendapatkan sertifikat kelulusan kelas Memulai Pemrograman dengan Java.
+
 ## **25 Juni 2021**
 <br>Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
